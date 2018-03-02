@@ -1,4 +1,7 @@
 #-*- coding:utf-8 -*-
+'''
+处理视频播放
+'''
 from driverset.webDriverset import driver
 import time
 driver.get('http://videojs.com/')
