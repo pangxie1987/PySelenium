@@ -12,3 +12,9 @@ for cookie in cookies:
     print(cookie['name'],cookie['value'])
     #driver.delete_all_cookies() #删除cookies
     #print(driver.get_cookies())
+
+'''
+设置cookie,绕过登录
+'''
+#name   JSESSIONID
+#value 6114216E74B17A382D6BEDE7727B8E62
