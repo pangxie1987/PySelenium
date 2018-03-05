@@ -1,4 +1,7 @@
 #-*- coding:utf-8 -*-
+'''
+获取cookie并打印出来
+'''
 from driverset.webDriverset import driver
 import ITSWeb.login
 
