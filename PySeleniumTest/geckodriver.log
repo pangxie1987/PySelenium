@@ -2,3 +2,45 @@
 1519452205062	geckodriver	INFO	Listening on 127.0.0.1:54947
 1519453053128	geckodriver	INFO	Listening on 127.0.0.1:52531
 1519453144620	geckodriver	INFO	Listening on 127.0.0.1:52687
+1520565786204	geckodriver	INFO	Listening on 127.0.0.1:60837
+1520565788269	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520565790170	Marionette	INFO	Enabled via --marionette
+1520565793638	Marionette	INFO	Listening on port 60843
+1520565794071	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 23740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath
+1520565852999	geckodriver	INFO	Listening on 127.0.0.1:60936
+1520565855033	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1520565856841	Marionette	INFO	Enabled via --marionette
+1520565860192	Marionette	INFO	Listening on port 60943
+1520565860313	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://suggestion.baidu.com/su?wd=%E4%B8%8A&json=1&p=3&sid=1428_13289_21118_17001_20928&req=2&csor=1&cb=jQuery110207663454646580224_1520565862463&_=1520565862465, line 1: TypeError: jQuery110207663454646580224_1520565862463 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=%E4%B8%8A%E6%B5%B7%E9%87%91%E7%A7%91&json=1&p=3&sid=1428_13289_21118_17001_20928&req=2&csor=4&pwd=%E4%B8%8A%E6%B5%B7%E9%87%91&cb=jQuery110207663454646580224_1520565862463&_=1520565862468, line 1: TypeError: jQuery110207663454646580224_1520565862463 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=%E4%B8%8A%E6%B5%B7%E9%87%91%E7%A7%91%E8%B7%AF&json=1&p=3&sid=1428_13289_21118_17001_20928&req=2&csor=5&pwd=%E4%B8%8A%E6%B5%B7%E9%87%91%E7%A7%91&cb=jQuery110207663454646580224_1520565862463&_=1520565862469, line 1: TypeError: jQuery110207663454646580224_1520565862463 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=%E4%B8%8A%E6%B5%B7&json=1&p=3&sid=1428_13289_21118_17001_20928&req=2&csor=2&pwd=%E4%B8%8A&cb=jQuery110207663454646580224_1520565862463&_=1520565862466, line 1: TypeError: jQuery110207663454646580224_1520565862463 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=%E4%B8%8A%E6%B5%B7%E9%87%91&json=1&p=3&sid=1428_13289_21118_17001_20928&req=2&csor=3&pwd=%E4%B8%8A%E6%B5%B7&cb=jQuery110207663454646580224_1520565862463&_=1520565862467, line 1: TypeError: jQuery110207663454646580224_1520565862463 is not a function
+[Child 28188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\pingbao.liu2\AppData\Local\openvr\openvrpaths.vrpath

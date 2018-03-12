@@ -1,0 +1,61 @@
+[INFO  - 2018-03-09T01:53:26.781Z] GhostDriver - Main - running on port 56630
+[INFO  - 2018-03-09T01:53:29.837Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-03-09T01:53:29.837Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.customHeaders:  - {}
+[INFO  - 2018-03-09T01:53:29.837Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-03-09T01:53:29.837Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: aa60f150-233c-11e8-83f3-09d2383ce8ce
+[ERROR - 2018-03-09T01:53:37.913Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110202147947617340833_1520560411365')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.913Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - stack:
+  global code (http://suggestion.baidu.com/su?wd=Phan&json=1&p=3&sid=1458_21088_17001_22157&csor=4&pwd=Pha&cb=jQuery110202147947617340833_1520560411365&_=1520560411370:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.914Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110202147947617340833_1520560411365')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.914Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - stack:
+  global code (http://suggestion.baidu.com/su?wd=Ph&json=1&p=3&sid=1458_21088_17001_22157&csor=2&pwd=P&cb=jQuery110202147947617340833_1520560411365&_=1520560411368:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.915Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110202147947617340833_1520560411365')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.915Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - stack:
+  global code (http://suggestion.baidu.com/su?wd=P&json=1&p=3&sid=1458_21088_17001_22157&csor=1&cb=jQuery110202147947617340833_1520560411365&_=1520560411367:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.915Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110202147947617340833_1520560411365')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.915Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - stack:
+  global code (http://suggestion.baidu.com/su?wd=Phant&json=1&p=3&sid=1458_21088_17001_22157&csor=5&pwd=Phan&cb=jQuery110202147947617340833_1520560411365&_=1520560411371:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.916Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110202147947617340833_1520560411365')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.916Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - stack:
+  global code (http://suggestion.baidu.com/su?wd=Phanto&json=1&p=3&sid=1458_21088_17001_22157&csor=6&pwd=Phant&cb=jQuery110202147947617340833_1520560411365&_=1520560411372:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.917Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110202147947617340833_1520560411365')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.917Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - stack:
+  global code (http://suggestion.baidu.com/su?wd=Phantom&json=1&p=3&sid=1458_21088_17001_22157&csor=7&pwd=Phanto&cb=jQuery110202147947617340833_1520560411365&_=1520560411373:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.918Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110202147947617340833_1520560411365')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.918Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - stack:
+  global code (http://suggestion.baidu.com/su?wd=PhantomJ&json=1&p=3&sid=1458_21088_17001_22157&csor=8&pwd=Phantom&cb=jQuery110202147947617340833_1520560411365&_=1520560411374:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.919Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'jQuery110202147947617340833_1520560411365')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-03-09T01:53:37.920Z] Session [aa60f150-233c-11e8-83f3-09d2383ce8ce] - page.onError - stack:
+  global code (http://suggestion.baidu.com/su?wd=PhantomJS&json=1&p=3&sid=1458_21088_17001_22157&csor=9&pwd=PhantomJ&cb=jQuery110202147947617340833_1520560411365&_=1520560411375:1)
+
+  phantomjs://platform/console++.js:263 in error
