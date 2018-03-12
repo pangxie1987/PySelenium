@@ -12,3 +12,4 @@ options.add_argument('disable-infobars')
 driver=webdriver.Chrome(chrome_options=options,executable_path='C:\Python\chromedriver.exe')
 driver.maximize_window()    #浏览器窗口最大化
 
+

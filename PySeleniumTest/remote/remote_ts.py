@@ -3,8 +3,11 @@
 selenium+Remote参数化平台及浏览器
 首先要启动
 '''
-
+import time
+import os
 from  selenium.webdriver import Remote
+from driverset.serverstart import check_exsit
+
 
 #设计主机+浏览器运行模式
 lists={'http://127.0.0.1:5556/wd/hub':'chrome',
