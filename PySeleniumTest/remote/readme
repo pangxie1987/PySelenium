@@ -1,4 +1,4 @@
-1、首先启动selenium server
+1、首先启动selenium server（运行startup_selenium_server.bat）
 2、报错的话修改：C:\Python\Python34\Lib\site-packages\selenium\webdriver\remote\webdriver.py
     注释掉"capabilities": w3c_caps,
 3、运行代码
